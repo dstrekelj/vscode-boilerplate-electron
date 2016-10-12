@@ -1,0 +1,12 @@
+{
+  "name": "vscode-boilerplate-electron",
+  "version": "1.0.0",
+  "description": "A boilerplate project set up for writing and debugging electron applications.",
+  "main": "index.js",
+  "author": "dstrekelj <domagojstrekelj@gmail.com>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@types/electron": "^1.4.24",
+    "electron": "^1.4.3"
+  }
+}
